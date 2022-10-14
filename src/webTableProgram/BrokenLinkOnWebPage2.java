@@ -20,7 +20,7 @@ public class BrokenLinkOnWebPage2 {
 		
 	    WebDriver driver=new ChromeDriver();
 	    
-	    driver.get("https://www.selenium.dev/selenium/docs/api/java/index.html?overview-summery.html");
+	    driver.get("https://www.google.com/");
 	    
 	    driver.manage().window().maximize();
 	    
